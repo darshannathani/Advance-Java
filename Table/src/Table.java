@@ -41,7 +41,7 @@ public class Table extends JFrame {
 		table = new JTable();
 		table.setBounds(6, 6, 420, 210);
 		contentPane.add(table);
-		String data[][]={ {"101","Amit","670000"},    
+		String data[][]={ {"101","Rajesh","670000"},    
 						  {"102","Jai","780000"},    
 						  {"101","Sachin","700000"}};    
 		String column[]={"ID","NAME","SALARY"};

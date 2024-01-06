@@ -108,7 +108,7 @@ public class Profile extends JFrame {
 		chckbxAdvjava.setBounds(112, 220, 114, 23);
 		contentPane.add(chckbxAdvjava);
 		
-		JCheckBox chckbxDotNet = new JCheckBox("Dot Net");
+		JCheckBox chckbxDotNet = new JCheckBox("Dot-Net");
 		chckbxDotNet.setBounds(110, 255, 82, 23);
 		contentPane.add(chckbxDotNet);
 		
